@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="libTitreAppli1">Mon menu v1.0</string>
+    <string name="app_name">Projet Menu</string>
+
+    <!-- LIBELLES BOUTONS -->
+    <string name="libBtGestionStock">Stock</string>
+    <string name="libBtSaisieMenu">Saisir\nMenu</string>
+    <string name="libBtConsulterMenu">Consulter\nMenu</string>
+    <string name="libBtGenererListeCourse">Liste de\ncourse</string>
+    <string name="libBtConfigurer">Config.</string>
+    <string name="libBtBdd">Paramètres de la base de données</string>
+    <string name="libBtGestIng">Gérer les ingrédients</string>
+    <string name="libBtGestPlat">Gérer les plats</string>
+    <string name="libBtExit">QUITTER</string>
+    <string name="libBtRetour">RETOUR</string>
+    <string name="libBtAnnuler">ANNULER</string>
+    <string name="libBtValider">VALIDER</string>
+    
+    <!-- LIBELLES TEXTVIEWS -->
+    <string name="libEcranConfig">Ecran de configuration</string>
+    
+    
+    
+    <string name="errNoBarCodeScanner">Aucun scanner ne semple être installé</string>
+    <string name="errLoginManquant">L\'identifiant est obligatoire</string>
+    <string name="errPasswordManquant">Le mot de passe est obligatoire</string>
+    <string name="errOTPManquant">L\'OTP est obigatoire</string>
+    <string name="errAppelWS">Impossible de contacter le serveur d\'authentification</string>
+    <string name="errConnLuxTrust">Impossible de contacter le serveur LuxTrust</string>
+        
+    <string name="errBadLogin">L\'identifiant est incorrect</string>
+    <string name="errBadPassword">Le mot de passe est incorrect</string>
+    <string name="errBadOTP">L\'OTP est incorrect</string>
+    <string name="errTech">Erreur technique, vérifiez votre connexion</string>
+    
+    <string name="authOk">Accès autorisé</string>
+    <string name="authNok">Accès refusé</string>    
+    
+</resources>

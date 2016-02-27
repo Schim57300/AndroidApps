@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="libTitreAppli1">Mon menu v1.0</string>
+    <string name="app_name">Projet Menu</string>
+
+    <!-- LIBELLES BOUTONS -->
+    <string name="libBtGestionStock">Stock</string>
+    <string name="libBtSaisieMenu">Saisir\nMenu</string>
+    <string name="libBtConsulterMenu">Consulter\nMenu</string>
+    <string name="libBtGenererListeCourse">Liste de\ncourse</string>
+    <string name="libBtConfigurer">Config.</string>
+    <string name="libBtBdd">Drop de la base de données</string>
+    <string name="libBtGestIng">Gérer les ingrédients</string>
+    <string name="libBtGestPlat">Gérer les plats</string>
+    <string name="libBtExit">QUITTER</string>
+    <string name="libBtRetour">RETOUR</string>
+    <string name="libBtAnnuler">ANNULER</string>
+    <string name="libBtValider">VALIDER</string>
+    <string name="libBtAjouter">AJOUTER</string>
+    <string name="libBtModifier">MODIFIER</string>
+    <string name="libBtSupprimer">SUPPRIMER</string>
+    
+    <!-- LIBELLES TEXTVIEWS -->
+    <string name="libEcranConfig">Ecran de configuration</string>
+    <string name="libTitreGestIng">Gestion des ingrédients</string>
+    <string name="libTitreGestPlat">Gestion des plats</string>
+    
+    <!-- LIBELLES MENUS -->
+    <string name="libAjouterIngredient">Ajouter un ingrédient</string>
+    <string name="libModifierIngredient">Modifier l\'ingrédient</string>
+    <string name="libSupprimerIngredient">Supprimer l\'ingrédient</string>
+    <string name="libAjouterPlat">Ajouter un plat</string>
+    <string name="libConsulterPlat">Consulter la compo.</string>
+    <string name="libModifierPlat">Modifier le plat</string>
+    <string name="libSupprimerPlat">Supprimer le plat</string>
+    
+    
+    <!-- LIBELLES HINT -->
+    <string name="libHintNomIngredient">Nom de l\'ingrédient</string>
+    <string name="libHintNomPlat">Nom du plat</string>
+    
+    <!-- LIBELLES ERREURS -->
+    <string name="errorNomIngredient">Nom de l\'ingrédient incorrect</string>
+    <string name="errorNomPlat">Nom du plat incorrect</string>
+    <string name="errorIngInUse">SUPPRESSION IMPOSSIBLE\nIngrédient associé au(x) plat(s):\n</string>
+    
+    
+</resources>
